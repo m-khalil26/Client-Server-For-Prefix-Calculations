@@ -1,4 +1,4 @@
-# Client-Server-For-Prefux-Calculations
+# Client-Server-For-Prefix-Calculations
 A Client Server architectue which permits associative prefix calculations.
 
 
