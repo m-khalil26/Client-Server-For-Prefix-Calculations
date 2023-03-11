@@ -25,7 +25,7 @@ A Client Server architectue which permits associative prefix calculations.
 - Multiplication -----> operator 'x'
 - Maximum -----> operator 'm'
 - Minimum -----> operator 'l'
-- GCD -----> operator 'p'
+- PGCD -----> operator 'p'
 
 ------------------------------ADDING OPERATIONS-----------------------------
 
